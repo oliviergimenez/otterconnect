@@ -1,7 +1,7 @@
 
 [build]
 command = "cd themes/docsy && git submodule update -f --init && cd ../.. && hugo"
-publish = "netlify"
+publish = "public"
 [build.environment]
 HUGO_VERSION = "0.79.0"
 
