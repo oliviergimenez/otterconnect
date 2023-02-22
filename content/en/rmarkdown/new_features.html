@@ -1,0 +1,172 @@
+---
+title: "New Features"
+author: "xx"
+date: "2/3/2021"
+output: html_document
+type: docs
+weight: 5
+---
+
+
+
+<p>New features we have added along with the R markdown support. These new features
+do not exist in original doscy theme.</p>
+<div id="r-code-highlighting" class="section level2">
+<h2>R code highlighting</h2>
+<p>R code highlighting is done by <a href="https://prismjs.com/index.html">prism.js</a>. Simply
+add a code chunk in markdown or rmarkdown files with r specified will work:</p>
+<p>In R markdown:</p>
+<pre><code>
+```r
+seq(1, 10)
+```
+
+```
+##  [1]  1  2  3  4  5  6  7  8  9 10
+```</code></pre>
+<p>will give you</p>
+<pre class="r"><code>1 + 1</code></pre>
+<pre><code>## [1] 2</code></pre>
+<p>In markdown:</p>
+<pre><code>```r
+1 + 1
+```</code></pre>
+<p>which is the same, but code will not be evaluated in simple markdowns</p>
+<pre class="r"><code>1 + 1</code></pre>
+</div>
+<div id="math-equations-mathjax" class="section level2">
+<h2>Math equations (Mathjax)</h2>
+<p>R markdown math is support in this theme but not in the original docsy theme.</p>
+<p>e.g.:</p>
+<p><code>$$\sum(1 +x)$$</code></p>
+</div>
+<div id="top-banner-navigation-dropdown-menu" class="section level2">
+<h2>Top banner navigation dropdown menu</h2>
+<p>When your mouse hovers on the top banner navigation items, dropdown menus will show
+up.</p>
+<p>To config your own dropdown is very simple, in <code>/config.toml</code> file, go to very bottom.</p>
+<ol style="list-style-type: decimal">
+<li>Specify a <code>[[menu.main]]</code> entry.</li>
+</ol>
+<ul>
+<li><code>name</code> is required</li>
+<li><code>weight</code> decides the order om the main menu</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Attach a child to the main item by adding another <code>[[menu.main]]</code> entry.</li>
+</ol>
+<ul>
+<li>This time <code>parent</code> is required and the value should be the <code>name</code> value for
+which the entry you want to attach to.</li>
+<li><code>weight</code> decides the order within the dropdown list</li>
+</ul>
+<p>This website’s documentation menu is created by this example:</p>
+<pre class="tmol"><code>[[menu.main]]
+  name = &quot;Documentation&quot;
+  weight = 1
+  url = &quot;/docs/&quot;
+  [[menu.main]]
+    name = &quot;overview&quot;
+    url = &quot;/docs/overview/&quot;
+    parent = &quot;Documentation&quot;
+    weight = 1</code></pre>
+<div id="dropdown-indentation" class="section level3">
+<h3>Dropdown indentation</h3>
+<p>If you wish to have some indentation in the dropdown menu, in <code>config.toml</code>, write
+the <code>menu</code> part as following:</p>
+<pre class="toml"><code>[[menu.main]]
+  name = &quot;Documentation&quot;
+  weight = 1
+  url = &quot;/docs/&quot;
+  [[menu.main]]
+    name = &quot;First level&quot;
+    url = &quot;https://www.docsy.dev/docs/&quot;
+    parent = &quot;Documentation&quot;
+    weight = 1
+  [[menu.main]]
+    name = &quot;Second level&quot;
+    url = &quot;https://www.docsy.dev/docs/&quot;
+    parent = &quot;Documentation&quot;
+    weight = 2
+    [menu.main.params]
+      level = 2</code></pre>
+<p>In addition to specify the <code>parent</code> param, also attach the <code>level</code> under <code>[menu.main.params]</code>.
+The <code>level</code> means indentation level. When not specified, it is the default 1. The value
+can be any float value between 0 and infinity. The indentation space is <code>level * 1rem</code>.
+So you can do something like <code>level = 1.5</code>. However, we encourage you to use integers than
+float numbers.</p>
+</div>
+</div>
+<div id="showhide-sidebars-toggle" class="section level2">
+<h2>Show/hide sidebars toggle</h2>
+<p>This feature is only available in document pages. 2 toggle buttons are on the
+top-right corner of the page. You can switch them off to hide left/right sidebars
+to create more space on small screens.</p>
+</div>
+<div id="automatic-deployment-to-github-pages-or-netlify" class="section level2">
+<h2>Automatic deployment to Github pages or Netlify</h2>
+<p>We added automatic deployment with Github Actions and instructions to Netlify,
+read <a href="/rmarkdown/deploy">deploy</a> for details.</p>
+</div>
+<div id="hide-document-before-the-specified-date" class="section level2">
+<h2>Hide document before the specified date</h2>
+<p>Sometimes for class teaching or other requirements, some pages need to be hidden
+before a specific date. We have added this support:</p>
+<ol style="list-style-type: decimal">
+<li><p>In your markdown/ R markdown header, add <code>visibleDate</code> date entry and specify
+a date in <strong><em>ISO 8601</em></strong> format: <code>YYYY-MM-DD HH:MM:SS</code>, for example</p>
+<pre><code>---
+title: &quot;Overview&quot;
+linkTitle: &quot;Overview&quot;
+weight: 1
+visibleDate: &quot;2021-02-01&quot;
+---</code></pre>
+<p>The document will <strong>not be visible before February 1st, year 2021</strong>. Hour, minute, second
+are optional.</p>
+<p>Note: hours are in 24 hour format. Hour, minute, second must be provided all together,
+providing a single, or two of them will not work.</p>
+<ul>
+<li><code>YYYY-MM-DD HH</code> not work</li>
+<li><code>YYYY-MM-DD HH:SS</code> not work</li>
+<li><code>YYYY-MM-DD SS</code> not work</li>
+<li><code>YYYY-MM-DD HH:MM:SS</code> work!</li>
+</ul></li>
+<li><p>Go to <code>/config.toml</code> change <code>serverTimeLocation</code> your server time zone location
+Change it to the time zone location of where your website rendering server (<strong>where do you run <code>blogdown::build_site()</code></strong>).
+If you are running locally, this time location will be the same as your local time,
+if you are using github actions, this time is the github server time location.</p>
+<p>If not provided, UTC time is used.</p></li>
+<li><p>In <code>/config.toml</code> specify <code>visHideMethod</code>, one of “soft” or “hard”
+How to hide the content before the visible date.</p>
+<ul>
+<li><p><strong>soft</strong>: default if not provided, use javascript to remove content.</p>
+<p><strong>The whole content is still sent to readers</strong>, we use client-end javascript to remove the
+content in post-processing. If some browsers block javascript, some content may
+leak to reader. However, you do not need to rebuild the site after the visible date.
+Content will <strong>automatically become visible</strong> for readers.</p></li>
+<li><p><strong>hard</strong>: Content is removed during markdown/Rmarkdown to HTML generation.</p>
+<p><strong>Whole content will not be sent to readers</strong>. However, you need to rebuild + redeploy the site
+after the visible date. Content will <strong>NOT automatically become visible</strong> for readers.</p></li>
+</ul></li>
+</ol>
+<p>We recommend to use “soft” for non-top secrets, like normal documents for a tool.
+For site with sensitive content like exam solutions, “hard” may be better.</p>
+</div>
+<div id="table-of-content-highlighting-and-scrolling" class="section level2">
+<h2>Table of content highlighting and scrolling</h2>
+<p>Right side table of content (TOC) bar will be automatically highlighted for readers current
+visible sections titles. This is a good indicator to show where the users are.</p>
+<p>If the TOC is too long, when readers scroll the page, TOC bar will automatically scroll
+as well.</p>
+</div>
+<div id="links-with-target_blank" class="section level2">
+<h2>Links with <code>target="_blank"</code></h2>
+<p>If you want users to open a new tab when click a Rmarkdown link, add <code>{t_blank}</code>
+in the end of the link text.</p>
+<p><strong>normal link:</strong></p>
+<pre class="md"><code>[a link to google](https://www.google.com)</code></pre>
+<p><a href="https://www.google.com">a link to google</a></p>
+<p><strong>link with <code>target="_blank"</code>:</strong></p>
+<pre class="md"><code>[a link to google{t_blank}](https://www.google.com)</code></pre>
+<p><a href="https://www.google.com">a link to google{t_blank}</a></p>
+</div>
