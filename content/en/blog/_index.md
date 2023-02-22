@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "OtterConnect Blog"
 linkTitle: "Blog"
 menu:
   main:
