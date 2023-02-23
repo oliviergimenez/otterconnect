@@ -6,3 +6,4 @@
 + Add Blog
 + Translate in French
 + Changer logo page en haut à droite en otter
++ Sort out issue w/ deployment
