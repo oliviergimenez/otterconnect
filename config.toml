@@ -59,7 +59,7 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "OtterConnect"
+title = ""
 description = ""
 languageName = "English"
 time_format_default = "2006-01-02"
@@ -114,9 +114,9 @@ visHideMethod = "soft"
 url_latest_version = "https://otterconnect.netlify.app/"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/dcassol/docsy_Rmarkdown"
+#github_repo = "https://github.com/dcassol/docsy_Rmarkdown"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/dcassol/docsy_Rmarkdown"
+#github_project_repo = "https://github.com/dcassol/docsy_Rmarkdown"
 # Since Github change default from "master" to "main", specify here.
 github_branch = "main"
 # Specify a value here if your content directory is not in your repo's root directory
@@ -129,7 +129,7 @@ github_branch = "main"
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = true
+offlineSearch = false
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = true
@@ -166,11 +166,11 @@ sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
-navbar_logo = true
+navbar_logo = false
 # Set to true to disable the About link in the site footer
-footer_about_disable = false
+footer_about_disable = true
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.

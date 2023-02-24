@@ -1,9 +1,9 @@
 # OtterConnect website
 
-+ Add Team members
++ ~~Add Team members~~
 + Write details on three axes
-+ Get rid of Learn More and About buttons
++ Get rid of ~~Learn More~~ and About buttons
 + Add Blog
 + Translate in French
 + Changer logo page en haut à droite en otter
-+ Sort out issue w/ deployment
++ ~~Sort out issue w/ deployment~~
