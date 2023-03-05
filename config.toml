@@ -7,6 +7,8 @@ baseURL = "/"
 title = "OtterConnect"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit", "\\.utf8"]
 enableRobotsTXT = true
+## post excerpt
+summaryLength = "20"
 relativeURLs = true
 publishDir = "public"
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
@@ -187,7 +189,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/oliviergimenez/otte
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
-enable = true
+enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
@@ -196,6 +198,11 @@ enable = true
 	url = "mailto:olivier.gimenez@cefe.cnrs.fr"
 	icon = "fa fa-envelope"
         desc = "Email us, we'd love to hear from you."
+[[params.links.user]]
+	name = "YouTube"
+	url = "https://www.youtube.com/playlist?list=PL5CiXbb9zgjQ3cahLLLLnCIwe5pkoSqP0"
+	icon = "fab fa-youtube"
+        desc = "Follow us on YouTube!."
 [[params.links.user]]
 	name ="Twitter"
 	url = "https://twitter.com/oaggimenez"

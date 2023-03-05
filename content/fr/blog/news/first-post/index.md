@@ -1,46 +1,22 @@
 ---
-date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+date: 2023-01-01
+title: "Le projet OtterConnect démarre!"
+linkTitle: "Le projet OtterConnect démarre"
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+#  params:
+#    byline: "Olivier Gimenez / CC-BY-CA"
 ---
 
-**This is a typical blog post that includes images.**
+Le projet `OtterConnect` démarre avec le soutien de la [ville de Montpellier](https://www.montpellier.fr/), de  [Montpellier Méditerranée Métropole](https://www.montpellier3m.fr/), et de l'[Université de Montpellier](https://www.umontpellier.fr/) via le [Labex Cemeb](https://www.labex-cemeb.org/). 
 
-The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
+<!--more-->
 
-## Including images
+Dans le projet `OtterConnect`, nous étudions la connectivité sur les cours d'eau de la région de Montpellier (Hérault, Lez, Vidourle, Orb/Libron, Or), avec la loutre d'Europe (*Lutra lutra*) comme cas d'étude,  et indicatrice des infrastructures vertes et bleues. Nous utilisons les méthodes non-invasives de suivi comme l'ADN environnemental, le piégeage photographique ou encore la recherche d’épreintes, la modélisation statistique et les sciences sociales. 
 
-Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
-
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+{{< imgproc logo Fill "600x100" >}}
+Logo du projet OtterConnect. Olivier Gimenez / CC-BY-CA.
 {{< /imgproc >}}
-
-The front matter of this post specifies properties to be assigned to all image resources:
-
-```
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
-```
-
-To include the image in a page, specify its details like this:
-
-```
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
-{{< /imgproc >}}
-```
-
-The image will be rendered at the size and byline specified in the front matter.
 
 
