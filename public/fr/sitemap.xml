@@ -158,6 +158,19 @@
                 href="/fr/blog/2023/01/20/premi%C3%A8res-vid%C3%A9os-de-la-loutre-sur-le-lez/"
                 />
   </url><url>
+    <loc>/fr/blog/2023/01/12/pose-des-pi%C3%A8ges-photos-sur-le-lez/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/2023/01/12/setting-up-cam-traps-on-the-lez-river/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/2023/01/12/pose-des-pi%C3%A8ges-photos-sur-le-lez/"
+                />
+  </url><url>
     <loc>/fr/blog/2023/01/01/le-projet-otterconnect-d%C3%A9marre/</loc>
     <lastmod>2023-03-05T22:09:56+01:00</lastmod>
     <xhtml:link
@@ -169,6 +182,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/2023/01/01/le-projet-otterconnect-d%C3%A9marre/"
+                />
+  </url><url>
+    <loc>/fr/blog/2022/12/15/rep%C3%A9rages-sur-le-lez/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/2022/12/15/scouting-on-the-lez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/2022/12/15/rep%C3%A9rages-sur-le-lez/"
                 />
   </url><url>
     <loc>/fr/rmarkdown/examples/</loc>
@@ -198,7 +224,7 @@
                 />
   </url><url>
     <loc>/fr/</loc>
-    <lastmod>2023-03-07T11:45:47+01:00</lastmod>
+    <lastmod>2023-03-07T13:01:16+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -11,12 +11,10 @@ resources:
 
 Le projet `OtterConnect` démarre avec le soutien de la [ville de Montpellier](https://www.montpellier.fr/), de  [Montpellier Méditerranée Métropole](https://www.montpellier3m.fr/), et de l'[Université de Montpellier](https://www.umontpellier.fr/) via le [Labex Cemeb](https://www.labex-cemeb.org/). 
 
-<!--more-->
+<p align="center">
+  <img width="460" height="300" src="logo-otterconnect.png" alt="OtterConnect project logo. Olivier Gimenez / CC-BY-CA">
+</p>
 
 Dans le projet `OtterConnect`, nous étudions la connectivité sur les cours d'eau de la région de Montpellier (Hérault, Lez, Vidourle, Orb/Libron, Or), avec la loutre d'Europe (*Lutra lutra*) comme cas d'étude,  et indicatrice des infrastructures vertes et bleues. Nous utilisons les méthodes non-invasives de suivi comme l'ADN environnemental, le piégeage photographique ou encore la recherche d’épreintes, la modélisation statistique et les sciences sociales. 
-
-{{< imgproc logo Fill "600x100" >}}
-Logo du projet OtterConnect. Olivier Gimenez / CC-BY-CA.
-{{< /imgproc >}}
 
 
