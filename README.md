@@ -1,7 +1,7 @@
 # OtterConnect website
 
 + Write details on three axes
-+ Add Blog
++ Add articles to blog
 + 
 + ~~Translate in French~~
 + ~~Add Team members~~
