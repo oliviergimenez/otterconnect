@@ -2,290 +2,290 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/rmarkdown/examples/example_rmd/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/examples/example_rmd/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/examples/example_rmd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/examples/example_rmd/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/examples/example_rmd/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/install/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/install/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/install/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/install/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/install/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/examples/visible/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/examples/visible/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/examples/visible/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/examples/visible/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/examples/visible/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/examples/invisible/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/examples/invisible/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/examples/invisible/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/examples/invisible/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/examples/invisible/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/newcontent/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/newcontent/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/newcontent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/newcontent/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/newcontent/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/deploy/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/deploy/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/deploy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/deploy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/deploy/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/examples/toc/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/examples/toc/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/examples/toc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/examples/toc/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/examples/toc/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/new_features/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/new_features/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/new_features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/new_features/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/new_features/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/commonproblems/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/commonproblems/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/commonproblems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/commonproblems/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/commonproblems/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/other/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/other/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/other/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/other/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/other/"
-                />
   </url><url>
-    <loc>/fr/blog/news/</loc>
+    <loc>/blog/news/</loc>
     <lastmod>2023-03-05T22:09:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/news/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/news/"
-                />
   </url><url>
-    <loc>/fr/blog/2023/02/24/rel%C3%A8ve-des-pi%C3%A8ges/</loc>
+    <loc>/blog/2023/02/24/checking-out-the-cam-traps/</loc>
     <lastmod>2023-03-08T08:54:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/2023/02/24/rel%C3%A8ve-des-pi%C3%A8ges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/2023/02/24/checking-out-the-cam-traps/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2023/02/24/rel%C3%A8ve-des-pi%C3%A8ges/"
-                />
   </url><url>
-    <loc>/fr/blog/2023/01/24/faune-du-lez/</loc>
+    <loc>/blog/2023/01/24/lez-wildlife/</loc>
     <lastmod>2023-03-08T08:54:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/2023/01/24/faune-du-lez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/2023/01/24/lez-wildlife/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2023/01/24/faune-du-lez/"
-                />
   </url><url>
-    <loc>/fr/blog/2023/01/20/premi%C3%A8res-vid%C3%A9os-de-la-loutre-sur-le-lez/</loc>
+    <loc>/blog/2023/01/20/first-videos-of-an-otter-on-the-lez-river/</loc>
     <lastmod>2023-03-05T22:09:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/2023/01/20/premi%C3%A8res-vid%C3%A9os-de-la-loutre-sur-le-lez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/2023/01/20/first-videos-of-an-otter-on-the-lez-river/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2023/01/20/premi%C3%A8res-vid%C3%A9os-de-la-loutre-sur-le-lez/"
-                />
   </url><url>
-    <loc>/fr/blog/2023/01/12/pose-des-pi%C3%A8ges-photos-sur-le-lez/</loc>
+    <loc>/blog/2023/01/12/setting-up-cam-traps-on-the-lez-river/</loc>
     <lastmod>2023-03-07T22:26:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/2023/01/12/pose-des-pi%C3%A8ges-photos-sur-le-lez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/2023/01/12/setting-up-cam-traps-on-the-lez-river/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2023/01/12/pose-des-pi%C3%A8ges-photos-sur-le-lez/"
-                />
   </url><url>
-    <loc>/fr/blog/2023/01/01/le-projet-otterconnect-d%C3%A9marre/</loc>
+    <loc>/blog/2023/01/01/the-otterconnect-project-is-launched/</loc>
     <lastmod>2023-03-07T22:26:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/2023/01/01/le-projet-otterconnect-d%C3%A9marre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/2023/01/01/the-otterconnect-project-is-launched/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2023/01/01/le-projet-otterconnect-d%C3%A9marre/"
-                />
   </url><url>
-    <loc>/fr/blog/2022/12/15/rep%C3%A9rages-sur-le-lez/</loc>
+    <loc>/blog/2022/12/15/scouting-on-the-lez/</loc>
     <lastmod>2023-03-07T22:26:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/2022/12/15/rep%C3%A9rages-sur-le-lez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/2022/12/15/scouting-on-the-lez/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2022/12/15/rep%C3%A9rages-sur-le-lez/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/examples/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/examples/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/examples/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/examples/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/examples/"
-                />
   </url><url>
-    <loc>/fr/blog/</loc>
-    <lastmod>2023-03-05T22:09:56+01:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/blog/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/"
-                />
   </url><url>
-    <loc>/fr/</loc>
-    <lastmod>2023-03-07T22:26:05+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-03-08T09:27:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
   </url><url>
-    <loc>/fr/rmarkdown/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/rmarkdown/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/rmarkdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/rmarkdown/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/rmarkdown/"
-                />
   </url><url>
-    <loc>/fr/search/</loc>
-    <lastmod>2023-02-25T22:59:13+01:00</lastmod>
+    <loc>/search/</loc>
+    <lastmod>2023-02-22T19:42:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/search/"
+                href="/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/search/"
+                href="/search/"
                 />
   </url>
 </urlset>

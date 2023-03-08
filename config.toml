@@ -17,8 +17,8 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/fr"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
 # Useful when translating.
@@ -61,20 +61,21 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.en]
-title = ""
-description = ""
-languageName = "English"
-time_format_default = "2006-01-02"
-time_format_blog = "2006-01-02"
-## Weight used for sorting.
-## uncomment below for more than one language support
-weight = 1
 [languages.fr]
 title = ""
 description = ""
-languageName ="Français"
+languageName = "Français"
 contentDir = "content/fr"
+time_format_default = "01.02.2006"
+time_format_blog = "01.02.2006"
+## Weight used for sorting.
+## uncomment below for more than one language support
+weight = 1
+[languages.en]
+title = ""
+description = ""
+languageName ="English"
+contentDir = "content/en"
 time_format_default = "01.02.2006"
 time_format_blog = "01.02.2006"
 
