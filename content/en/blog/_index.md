@@ -1,6 +1,6 @@
 ---
-title: "OtterConnect Blog"
-linkTitle: "News"
+title: ""
+linkTitle: ""
 menu:
   main:
     weight: 30

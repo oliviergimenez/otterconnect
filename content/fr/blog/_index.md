@@ -1,5 +1,5 @@
 ---
-title: "Nouvelles"
+title: ""
 linkTitle: ""
 menu:
   main:
