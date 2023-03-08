@@ -198,7 +198,17 @@
                 />
   </url><url>
     <loc>/en/blog/2023/01/15/beauval-nature-is-supporting-otterconnect/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-08T21:25:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2023/01/15/beauval-nature-soutient-otterconnect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2023/01/15/beauval-nature-is-supporting-otterconnect/"
+                />
   </url><url>
     <loc>/en/blog/2023/01/12/setting-up-cam-traps-on-the-lez-river/</loc>
     <lastmod>2023-03-07T22:26:05+01:00</lastmod>
@@ -226,6 +236,19 @@
                 href="/en/blog/2023/01/01/the-otterconnect-project-is-launched/"
                 />
   </url><url>
+    <loc>/en/blog/2022/12/16/montpellier-university-is-supporting-otterconnect/</loc>
+    <lastmod>2023-03-08T21:25:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2022/12/16/luniversit%C3%A9-de-montpellier-soutient-otterconnect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2022/12/16/montpellier-university-is-supporting-otterconnect/"
+                />
+  </url><url>
     <loc>/en/blog/2022/12/15/scouting-on-the-lez/</loc>
     <lastmod>2023-03-07T22:26:05+01:00</lastmod>
     <xhtml:link
@@ -237,6 +260,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/blog/2022/12/15/scouting-on-the-lez/"
+                />
+  </url><url>
+    <loc>/en/blog/2022/10/21/montpellier-is-supporting-otterconnect/</loc>
+    <lastmod>2023-03-08T21:25:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2022/10/21/montpellier-soutient-otterconnect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2022/10/21/montpellier-is-supporting-otterconnect/"
                 />
   </url><url>
     <loc>/en/blog/</loc>

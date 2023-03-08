@@ -66,8 +66,8 @@ title = ""
 description = ""
 languageName = "Français"
 contentDir = "content/fr"
-time_format_default = "01.02.2006"
-time_format_blog = "01.02.2006"
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
 ## Weight used for sorting.
 ## uncomment below for more than one language support
 weight = 1
