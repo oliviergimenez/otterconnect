@@ -146,7 +146,7 @@
                 />
   </url><url>
     <loc>/fr/blog/2023/02/24/rel%C3%A8ve-des-pi%C3%A8ges/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-08T08:54:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,7 +159,17 @@
                 />
   </url><url>
     <loc>/fr/blog/2023/01/24/faune-du-lez/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-08T08:54:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/2023/01/24/lez-wildlife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/2023/01/24/faune-du-lez/"
+                />
   </url><url>
     <loc>/fr/blog/2023/01/20/premi%C3%A8res-vid%C3%A9os-de-la-loutre-sur-le-lez/</loc>
     <lastmod>2023-03-05T22:09:56+01:00</lastmod>
