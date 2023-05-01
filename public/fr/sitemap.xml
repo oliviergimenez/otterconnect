@@ -145,8 +145,57 @@
                 href="/blog/news/"
                 />
   </url><url>
+    <loc>/blog/2023/04/24/reportage-france-3-occitanie/</loc>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2023/04/24/were-on-tv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2023/04/24/reportage-france-3-occitanie/"
+                />
+  </url><url>
+    <loc>/blog/2023/04/12/article-la-gazette/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2023/04/12/newspaper-article-in-la-gazette/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2023/04/12/article-la-gazette/"
+                />
+  </url><url>
+    <loc>/blog/2023/03/30/sortie-terrain-avec-les-coll%C3%A8gues-de-la-ville-et-m%C3%A9tropole-montpellier/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2023/03/30/field-trip-with-colleagues-from-the-city-of-montpellier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2023/03/30/sortie-terrain-avec-les-coll%C3%A8gues-de-la-ville-et-m%C3%A9tropole-montpellier/"
+                />
+  </url><url>
     <loc>/blog/2023/03/27/article-midi-libre/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-27T19:05:11+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2023/03/27/article-in-midi-libre-newspaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2023/03/27/article-midi-libre/"
+                />
   </url><url>
     <loc>/blog/2023/02/24/rel%C3%A8ve-des-pi%C3%A8ges/</loc>
     <lastmod>2023-03-08T08:54:20+01:00</lastmod>
