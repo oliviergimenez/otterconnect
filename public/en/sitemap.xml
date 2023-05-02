@@ -145,8 +145,8 @@
                 href="/en/blog/news/"
                 />
   </url><url>
-    <loc>/en/blog/2023/04/24/were-on-tv/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <loc>/en/blog/2023/04/24/reportage/</loc>
+    <lastmod>2023-05-01T09:33:43+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -155,11 +155,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/blog/2023/04/24/were-on-tv/"
+                href="/en/blog/2023/04/24/reportage/"
                 />
   </url><url>
     <loc>/en/blog/2023/04/12/newspaper-article-in-la-gazette/</loc>
-    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-01T09:33:43+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -171,8 +171,21 @@
                 href="/en/blog/2023/04/12/newspaper-article-in-la-gazette/"
                 />
   </url><url>
+    <loc>/en/blog/2023/04/03/kickoff-meeting-of-the-otterconnect-project/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/2023/04/03/r%C3%A9union-de-lancement-du-projet-otterconnect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/2023/04/03/kickoff-meeting-of-the-otterconnect-project/"
+                />
+  </url><url>
     <loc>/en/blog/2023/03/30/field-trip-with-colleagues-from-the-city-of-montpellier/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-01T09:33:43+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
