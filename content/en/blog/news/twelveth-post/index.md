@@ -1,5 +1,5 @@
 ---
-date: 2023-27-03
+date: 2023-03-27
 title: "article in Midi Libre newspaper"
 linkTitle: "article in Midi Libre newspaper"
 resources:

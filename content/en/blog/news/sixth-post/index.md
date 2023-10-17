@@ -1,5 +1,5 @@
 ---
-date: 2023-24-01
+date: 2023-01-24
 title: "Lez wildlife"
 linkTitle: "Lez wildlife"
 resources:

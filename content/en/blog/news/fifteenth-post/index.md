@@ -1,5 +1,5 @@
 ---
-date: 2023-24-04
+date: 2023-04-24
 title: "Reportage"
 linkTitle: "Reportage"
 resources:

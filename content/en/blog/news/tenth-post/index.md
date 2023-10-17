@@ -1,5 +1,5 @@
 ---
-date: 2022-21-10
+date: 2022-10-21
 title: "Montpellier is supporting OtterConnect"
 linkTitle: "Montpellier is supporting OtterConnect"
 resources:

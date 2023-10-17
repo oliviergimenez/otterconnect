@@ -1,5 +1,5 @@
 ---
-date: 2022-15-12
+date: 2022-12-15
 title: "Scouting on the Lez"
 linkTitle: "Scouting on the Lez"
 resources:

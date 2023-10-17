@@ -1,5 +1,5 @@
 ---
-date: 2023-12-01
+date: 2023-01-12
 title: "Setting up cam traps on the Lez river"
 linkTitle: "Setting up cam traps on the Lez river"
 resources:

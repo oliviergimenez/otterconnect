@@ -1,5 +1,5 @@
 ---
-date: 2023-24-02
+date: 2023-02-24
 title: "Checking out the cam traps"
 linkTitle: "Checking out the cam traps"
 resources:

@@ -1,5 +1,5 @@
 ---
-date: 2023-01-09
+date: 2023-09-01
 title: "Start of Simon Lacombe's thesis"
 linkTitle: "PhD Simon Lacombe"
 resources:
