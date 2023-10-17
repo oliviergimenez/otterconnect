@@ -1,5 +1,5 @@
 ---
-date: 2023-09-02
+date: 2023-02-09
 title: "CEFE-Montpellier city/metropole day of discussions"
 linkTitle: "CEFE-Montpellier city/metropole day of discussions"
 resources:
