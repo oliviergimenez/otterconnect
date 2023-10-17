@@ -1,5 +1,5 @@
 ---
-date: 2023-04-12
+date: 2023-12-04
 title: "Newspaper article in La Gazette"
 linkTitle: "Newspaper article in La Gazette"
 resources:

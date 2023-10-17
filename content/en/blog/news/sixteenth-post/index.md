@@ -1,5 +1,5 @@
 ---
-date: 2023-04-03
+date: 2023-03-04
 title: "Kickoff meeting of the OtterConnect project"
 linkTitle: "Kickoff meeting of the OtterConnect project"
 resources:

@@ -1,5 +1,5 @@
 ---
-date: 2022-12-16
+date: 2022-16-12
 title: "Montpellier University is supporting OtterConnect"
 linkTitle: "Montpellier University is supporting OtterConnect"
 resources:
