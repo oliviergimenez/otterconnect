@@ -9,6 +9,6 @@ resources:
 #    byline: "Olivier Gimenez / CC-BY-CA"
 ---
 
-Regardez le reportage [ici](https://www.bfmtv.com/animaux/elle-a-commence-a-recoloniser-65-ans-apres-leur-disparition-les-loutres-sont-de-retour-dans-le-gard-et-l-herault_AV-202501310756.html). 
+Un reportage de BFMTV sur nos travaux dans lequel on retrouve Yann Raulet et Vincent Sablain. Regardez le reportage [ici](https://www.bfmtv.com/animaux/elle-a-commence-a-recoloniser-65-ans-apres-leur-disparition-les-loutres-sont-de-retour-dans-le-gard-et-l-herault_AV-202501310756.html). 
 
 

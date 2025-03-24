@@ -9,6 +9,6 @@ resources:
 #    byline: "Olivier Gimenez / CC-BY-CA"
 ---
 
-Lisez l'article [ici](https://www.francebleu.fr/infos/environnement/les-loutres-sont-bel-et-bien-de-retour-dans-l-herault-3862470). 
+Un article de France Bleue sur nos travaux suite à un entretien avec Olivier Gimenez. Retrouvez l'article [ici](https://www.francebleu.fr/infos/environnement/les-loutres-sont-bel-et-bien-de-retour-dans-l-herault-3862470). 
 
 
