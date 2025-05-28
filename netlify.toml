@@ -1,9 +1,11 @@
-
 [build]
-command = "cd themes/docsy && git submodule update -f --init && cd ../.. && hugo"
-publish = "public"
+  publish = "public"
+  command = "hugo"
+
 [build.environment]
-HUGO_VERSION = "0.79.0"
+  HUGO_VERSION = "0.124.1"
+  NODE_VERSION = "20"
+  GO_VERSION = "1.21"
 
 [context]
 [context.branch-deploy]
@@ -13,3 +15,4 @@ command = "hugo -F -b $DEPLOY_PRIME_URL --baseURL /"
 [context.production]
 [context.production.environment]
 HUGO_ENV = "production"
+
