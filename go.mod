@@ -1,6 +1,6 @@
 module github.com/oliviergimenez/otterconnect
 
-go 1.24.1
+go 1.24
 
 require (
 	github.com/FortAwesome/Font-Awesome v0.0.0-20240716171331-37eff7fa00de // indirect
