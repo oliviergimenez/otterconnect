@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
-disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+disableKinds = ["taxonomy", "RSS"]
 
 # Highlighting config
 pygmentsCodeFences = false
@@ -72,13 +72,14 @@ time_format_blog = "02.01.2006"
 ## Weight used for sorting.
 ## uncomment below for more than one language support
 weight = 1
-[languages.en]
-title = ""
-description = ""
-languageName ="English"
-contentDir = "content/en"
-time_format_default = "01.02.2006"
-time_format_blog = "01.02.2006"
+
+#[languages.en]
+#title = ""
+#description = ""
+#languageName ="English"
+#contentDir = "content/en"
+#time_format_default = "01.02.2006"
+#time_format_blog = "01.02.2006"
 
 [markup]
   [markup.goldmark]
@@ -175,7 +176,8 @@ sidebar_search_disable = false
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = false
 # Set to true to disable the About link in the site footer
-footer_about_disable = true
+footer_about_enable = false
+
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
@@ -216,6 +218,12 @@ enable = false
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 
+[module]
+  [[module.imports]]
+    path = "github.com/google/docsy"
+  [[module.imports]]
+    path = "github.com/FortAwesome/Font-Awesome"
+    
 # Top-level navigation (horizontal)
 ##
 #[[menu.main]]
