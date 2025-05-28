@@ -64,11 +64,7 @@ anchor = "smart"
 [languages]
 [languages.fr]
 title = ""
-description = ""
-languageName = "Français"
-contentDir = "content/fr"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
+
 ## Weight used for sorting.
 ## uncomment below for more than one language support
 weight = 1
@@ -99,6 +95,12 @@ weight = 1
 
 # Everything below this are Site Params
 [params]
+description = ""
+languageName = "Français"
+contentDir = "content/fr"
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
+
 copyright = "Olivier Gimenez"
 #privacy_policy = "https://policies.google.com/privacy"
 
