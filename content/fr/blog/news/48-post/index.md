@@ -13,7 +13,7 @@ Dans le cadre de son travail de thèse, Simon Lacombe vient de publier son premi
 Après avoir frôlé l’extinction au cours du XXe siècle, la loutre d’Europe (Lutra lutra) reconquiert peu à peu les rivières françaises. 
 Grâce à un important travail de collecte et de modélisation de données mené par notre équipe, une carte inédite de l’expansion de l’espèce sur les quinze dernières années vient d’être établie. 
 Cette étude, parue dans la revue Biological Conservation, révèle non seulement une progression régulière de la loutre sur le territoire national, mais aussi la reconnexion de noyaux de population historiquement isolés. 
-Une bonne nouvelle pour ce petit carnivore charismatique, discret, et aujourd’hui encore menacé. L'article est consultable [ici](https://www.sciencedirect.com/science/article/pii/S0006320725002162#f0005) en anglais. 
+Une bonne nouvelle pour ce petit carnivore charismatique, discret, et aujourd’hui encore menacé. L'article est consultable [ici](https://www.sciencedirect.com/science/article/pii/S0006320725002162#f0005) en anglais, et le communiqué du CNRS en français est disponible [là](https://www.inee.cnrs.fr/fr/cnrsinfo/la-loutre-deurope-signe-un-spectaculaire-retour-en-france). 
 
 <figure>
   <img src="carte.jpeg" alt="Cartes des données loutre d'Europe">
